@@ -23,7 +23,7 @@ Based in Mumbai, India (Asia/Kolkata).
 
 ## Get in touch
 - Portfolio: https://kataleamey2639.github.io/web/
-- LinkedIn: [your LinkedIn URL]
-- Email: [your email]
+- LinkedIn: https://www.linkedin.com/in/amey-katale/
+- Email: kataleamey2639@gmail.com
 
 *Open to freelance and contract work.*
